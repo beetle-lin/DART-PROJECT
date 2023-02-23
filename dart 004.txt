@@ -1,0 +1,16 @@
+void main() {
+  
+  }
+
+// loops
+// FOR LOOPS(SYNTAX)
+
+for ( var i= 0; i<4 ; i++){
+  print("hello word")
+}
+// WHILE LOOP(SYNTAX)
+
+while (i < 4){
+  print("hello word");
+  i++ ;
+}
